@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pete Fernandes {GitHub name: @Gazoo2019}
-- 👀 I’m interested in Analytics - Particularly Machine Learning and Deep Learning within sports. 
+- 👀 I’m interested in Analytics - Particularly Machine Learning and Deep Learning within Sports and Finance. 
 - 🌱 I’m currently learning Blockchain Development 
 
 - 📫 You can reach me on petewences96@gmail.com
